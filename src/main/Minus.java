@@ -1,9 +1,9 @@
 package main;
 
-public class Plus {
+public class Minus {
 	private int a, b, ans;
 	
-	public Plus(int a, int b) {
+	public Minus(int a, int b) {
 		this.a = a;
 		this.b = b;
 	}
@@ -29,7 +29,7 @@ public class Plus {
 	}
 	
 	public int calc() {
-		ans = a + b;
+		ans = a - b;
 		return ans;
 	}
 }

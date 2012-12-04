@@ -9,13 +9,19 @@ import org.junit.Test;
 public class PlusTest {
 
 	@Test
-	public void OnePlusOneTest() {
-		Plus p = new Plus(1, 1);
-		assertEquals(p.calc(), 2);
+	public void GetATest() {
+		Plus p = new Plus(1, 2);
+		assertEquals(p.getA(), 1);
+	}
+	
+	@Test
+	public void TwoPlusOneTest() {
+		Plus p = new Plus(2, 1);
+		assertEquals(p.calc(), 3);
 	}
 
 	@Test
-	public void GetNullTest() {
+	public void GetZeroTest() {
 		Plus p = new Plus(1, 1);
 		assertEquals(p.getAns(), 0);
 	}
