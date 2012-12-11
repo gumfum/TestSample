@@ -1,0 +1,7 @@
+**** src\test\MinusTest.java: test.MinusTest.GetBTest ****
+src\main\Minus.java: 6 - 8
+src\main\Minus.java: 16
+
+**** src\test\PlusTest.java: test.PlusTest.GetATest ****
+src\main\Plus.java: 6 - 8
+src\main\Plus.java: 20
