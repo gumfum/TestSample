@@ -6,6 +6,6 @@ src\main\Minus.java: 16
 src\main\Plus.java: 6 - 8
 src\main\Plus.java: 20
 
-**** src\test\ProductTest.java: test.ProductTest.GetBTest ****
-src\main\Plus.java: 6 - 8
+**** src\test\ProductTest.java: test.ProductTest.TwoProductOneTest ****
 src\main\Plus.java: 24
+src\main\Plus.java: 31 - 33
