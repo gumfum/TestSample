@@ -1,0 +1,70 @@
+**** src\test\MinusTest.java: test.MinusTest.GetBTest ****
+src\main\Minus.java: 7
+src\main\Minus.java: 8
+src\main\Minus.java: 24
+
+
+**** src\test\MinusTest.java: test.MinusTest.TwoMinusOneTest ****
+src\main\Minus.java: 7
+src\main\Minus.java: 8
+src\main\Minus.java: 32
+src\main\Minus.java: 33
+
+
+**** src\test\MinusTest.java: test.MinusTest.getZeroTest ****
+src\main\Minus.java: 7
+src\main\Minus.java: 8
+src\main\Minus.java: 28
+
+
+**** src\test\PlusTest.java: test.PlusTest.GetATest ****
+src\main\Plus.java: 7
+src\main\Plus.java: 8
+src\main\Plus.java: 20
+
+
+**** src\test\PlusTest.java: test.PlusTest.TwoPlusOneTest ****
+src\main\Plus.java: 7
+src\main\Plus.java: 8
+src\main\Plus.java: 32
+src\main\Plus.java: 33
+
+
+**** src\test\PlusTest.java: test.PlusTest.GetZeroTest ****
+src\main\Plus.java: 7
+src\main\Plus.java: 8
+src\main\Plus.java: 28
+
+
+**** src\test\PlusTest2.java: test.PlusTest2.GetBTest ****
+src\main\Plus.java: 7
+src\main\Plus.java: 8
+src\main\Plus.java: 24
+
+
+**** src\test\PlusTest2.java: test.PlusTest2.OnePlusTwoTest ****
+src\main\Plus.java: 7
+src\main\Plus.java: 8
+src\main\Plus.java: 32
+src\main\Plus.java: 33
+
+
+**** src\test\ProductTest.java: test.ProductTest.GetBTest ****
+src\main\Product.java: 7
+src\main\Product.java: 8
+src\main\Product.java: 24
+
+
+**** src\test\ProductTest.java: test.ProductTest.TwoProductOneTest ****
+src\main\Product.java: 7
+src\main\Product.java: 8
+src\main\Product.java: 32
+src\main\Product.java: 33
+
+
+**** src\test\ProductTest.java: test.ProductTest.getZeroTest ****
+src\main\Product.java: 7
+src\main\Product.java: 8
+src\main\Product.java: 28
+
+
